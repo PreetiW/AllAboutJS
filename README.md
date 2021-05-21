@@ -13,6 +13,9 @@ Happy Coding!
 * Any Browser of your choice (I will recommend Chrome)
 * Any Editor of your choice (I will recomment [Visual Studio Code](https://code.visualstudio.com/download))
 
+## Documentation
+
+* [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript) - Mozilla Developer Network is an amazing place to learn everything about JavaScipt and different web technologies
 
 ## Index
 

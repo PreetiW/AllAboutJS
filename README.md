@@ -8,6 +8,11 @@ I hope you find it useful.
 
 Happy Coding!
 
+## What all you need?
+
+* Any Browser of your choice (I will recommend Chrome)
+* Any Editor of your choice (I will recomment [Visual Studio Code](https://code.visualstudio.com/download))
+
 
 ## Index
 

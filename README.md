@@ -19,6 +19,7 @@ Happy Coding!
 
 ## Index
 
-[JavaScript History (WIP)](https://github.com/PreetiW/AllAboutJS/wiki/JavaScript-History:-JS,-ECMA,-TC39-What-Do-They-Mean%3F%3F)
+[JavaScript History (WIP)](../../wiki/JavaScript-History)
+[The World of Loops](../../wiki/Loops)
 
   

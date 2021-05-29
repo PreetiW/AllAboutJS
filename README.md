@@ -19,7 +19,7 @@ Happy Coding!
 
 ## Table of contents
 
-*[JavaScript History (WIP)](../../wiki/JavaScript-History)
+* [JavaScript History (WIP)](../../wiki/JavaScript-History)
 * [The World of Loops](../../wiki/The-World-of-Loops)
 
   

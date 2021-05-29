@@ -17,9 +17,9 @@ Happy Coding!
 
 * [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript) - Mozilla Developer Network is an amazing place to learn everything about JavaScipt and different web technologies
 
-## Index
+## Table of contents
 
-[JavaScript History (WIP)](../../wiki/JavaScript-History)
-[The World of Loops](../../wiki/Loops)
+*[JavaScript History (WIP)](../../wiki/JavaScript-History)
+* [The World of Loops](../../wiki/The-World-of-Loops)
 
   

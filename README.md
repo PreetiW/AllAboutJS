@@ -21,5 +21,6 @@ Happy Coding!
 
 * [JavaScript History (WIP)](../../wiki/JavaScript-History)
 * [The World of Loops](../../wiki/The-World-of-Loops)
+* [Functions](../../wili/Functions)
 
   

@@ -11,7 +11,7 @@ Happy Coding!
 ## What all you need?
 
 * Any Browser of your choice (I will recommend Chrome)
-* Any Editor of your choice (I will recomment [Visual Studio Code](https://code.visualstudio.com/download))
+* Any Editor of your choice (I will recommend [Visual Studio Code](https://code.visualstudio.com/download))
 
 ## Documentation
 
@@ -19,8 +19,16 @@ Happy Coding!
 
 ## Table of contents
 
-* [JavaScript History (WIP)](../../wiki/JavaScript-History)
+* [JavaScript History](../../wiki/JavaScript-History)
+* [Basics of Variables](../../wiki/Basics-of-Variables)
 * [The World of Loops](../../wiki/The-World-of-Loops)
-* [Functions](../../wili/Functions)
+* [Functions](../../wiki/Functions)
+* [Array Methods](../../wiki/Array-Methods)
+* [DOM APIs](../../wiki/DOM-APIs)
+* [ES6 or ECMAScript 2015 Features](../../wiki/ES6-or-ECMAScript-2015-Features)
+* [Asynchronous JS: How JavaScript Works?](../../wiki/Asynchronous-JS:-How-JavaScript-Works%3F)
+* [this Keyword](../../wiki/this-Keyword)
+* [Hoisting](../../wiki/Hoisting)
+
 
   

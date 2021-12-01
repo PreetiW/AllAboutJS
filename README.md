@@ -16,6 +16,7 @@ Happy Coding!
 ## Documentation
 
 * [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript) - Mozilla Developer Network is an amazing place to learn everything about JavaScipt and different web technologies
+* [Useful links](../../wiki/Useful-Links)
 
 ## Table of contents
 

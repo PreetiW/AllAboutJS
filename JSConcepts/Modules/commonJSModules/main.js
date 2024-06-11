@@ -8,7 +8,7 @@
 
 // import multiple functions from CommonJS module
 
-const {getFullName, getSurname } = require('./commonJSModule')
+const {getFullName, getSurname } = require('./commonModule')
 
 console.log('Get Full Name:', getFullName('Preeti', 'Wadhwani'))
 console.log('Get Surname Name:', getSurname('Preeti', 'Wadhwani'))

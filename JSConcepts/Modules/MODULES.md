@@ -11,6 +11,7 @@
 * NodeJS modular system is CommonJS and CommonJS modules don't exist in Browser hence we can't run it in browser directly but can use using `node` for eg `node main.js`
 
 
+
 ## ECMAScript(ES6) modules
 
 * works in browser by default
@@ -21,10 +22,43 @@
 * specify `.js` extension for file while importing a module, It is not mandatory to do that in webpack/babel
 
 
+### Difference Between Default and Named export in ES6 modules?
+
+**Named exports**
+
+* which means **giving a name** to each of the export 
+* same name we will use while importing a module, but we can create its alias by using [as operator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import)
+* Check `es6Modules.js` & `main.js` for example reference.
+* We can have multiple named exports per module
+
+
+** Default exports**
+
+* It is used to export a single value as a default value for a module.
+<br> This value can be a variable, function, class or any other JavaScript entity
+* while importing a default export, we can assign it any name we want. 
+* Check `es6Modules.js` & `main.js` for example reference.
+* We can only have **one default export** per module
+
+
+
+------
+
+## Difference between CommonJS & ES Modules
+
+| CommonJS Modules | ECMAScript(ES6) modules |
+| ---              |                     --- |
+| import using `require` keyword, <br> `require` is a function| import using `import` statement|
+| NodeJS modular system is CommonJS <br> default support in NodeJS | works in browser by default  |
+| `module.exports` to export modules | `export default` & `export`   statements to export a module  |
+
 
 ## Why ES6 Modules are better? Why they were invented at all?
 
 * 
+
+
+
 
 
  ## References

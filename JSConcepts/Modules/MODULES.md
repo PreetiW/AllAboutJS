@@ -32,7 +32,7 @@
 * We can have multiple named exports per module
 
 
-** Default exports**
+**Default exports**
 
 * It is used to export a single value as a default value for a module.
 <br> This value can be a variable, function, class or any other JavaScript entity

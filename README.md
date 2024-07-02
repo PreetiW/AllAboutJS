@@ -20,7 +20,7 @@ Happy Coding!
 
 ## Table of contents
 
-* [JavaScript History](../../wiki/JavaScript-History)
+* [JavaScript History](/Docs/JavaScriptHistory.md)
 * [JavaScript (Fun)Facts](../../wiki/JavaScript-(Fun)Facts)
 * [Basics of Variables](../../wiki/Basics-of-Variables)
 * [The World of Loops](../../wiki/The-World-of-Loops)

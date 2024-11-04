@@ -22,7 +22,7 @@ Happy Coding!
 
 * [JavaScript History](/Docs/JavaScriptHistory.md)
 * [JavaScript (Fun)Facts](../../wiki/JavaScript-(Fun)Facts)
-* [Basics of Variables](../../wiki/Basics-of-Variables)
+* [Basics of Variables](/Docs/VariablesBasics)
 * [The World of Loops](../../wiki/The-World-of-Loops)
 * [Functions](../../wiki/Functions)
 * [Array Methods](../../wiki/Array-Methods)

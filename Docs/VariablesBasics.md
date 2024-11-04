@@ -98,7 +98,9 @@ In JS we have many useful built in methods for String variables. Such as:
 * slice(startIndex, endIndex) // doesn't include the endIndex character
 * replace(seachValue, replaceValue) //replace the first occurance of searchValue
 
-Remember as strings are immutable in JavaScript, these methods returns a new string which we can store in the new variable or override the old variable.
+Remember as strings are immutable in JavaScript, these methods returns a new string which we can store in the new variable or override the old variable. 
+
+We have `Math` object in JS which also has functions and properties similar to String variables.
 
 **String Escape Characters** are special combination for special characters for eg:
 ```
@@ -114,6 +116,9 @@ Remember as strings are immutable in JavaScript, these methods returns a new str
 let name= "Preeti Wadhwani";
 `Hello ${name}`  // we use back tick characters which is above tab mostly.  output - Hello Preeti
 ```
+
+`null` we set the value ourself when we want to mention a variable has null value. `undefined` is default assigned by JS when any variable value is not set, though we can also manually assign `undefiend` value to the variable.
+
 
 ### Note
 

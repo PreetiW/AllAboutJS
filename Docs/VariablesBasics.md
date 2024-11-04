@@ -75,16 +75,45 @@ let isLoggedIn = true;
 
 ### String
 
-text in JavScript is represented in the form of String and we can use '' or "" to wrap the string value, we just should be conistent with the same. Also + operator has special meaning when it comes to Strings, we can use this operator to concatenate two strings in JS.
+text in JavScript is represented in the form of String and we can use '' or "" to wrap the string value, we just should be conistent with the same. Also + operator has special meaning when it comes to Strings, we can use this operator to concatenate two strings in JS. String values are immutable in JS, which means we cannot change any character in it. Note that this does not mean that myStr cannot be changed, just that the individual characters of a string literal cannot be changed. [Read this](https://github.com/EQuimper/CodeChallenge/blob/master/javascript/FreeCodeCamps/Basic%20JavaScript/Understand%20String%20Immutability.md) for more information.
 
 ```
 let name = "Preeti";
 let surname = "Wadhwani";
 
 let fullName = name + " " + surname; // console output: Preeti Wadhwani
-
 ```
 
+String are indexed from left to right starting with 0 which is similar to arrays in JS. String variables has special property `length` using which we can check the length of the string.
+
+```
+let name = "Preeti" 
+console.log(name[1]) // output: r
+```
+
+In JS we have many useful built in methods for String variables. Such as:
+* toUpperCase()
+* trim()
+* indexOf(substring)  // first occurance of substring and case sensative, -1 if value not found
+* slice(startIndex, endIndex) // doesn't include the endIndex character
+* replace(seachValue, replaceValue) //replace the first occurance of searchValue
+
+Remember as strings are immutable in JavaScript, these methods returns a new string which we can store in the new variable or override the old variable.
+
+**String Escape Characters** are special combination for special characters for eg:
+```
+\n
+\'
+\"
+\\
+```
+
+**String Template Literals** are strings that allow embedded expressions which will be evaluated and then returned in the string.
+
+```
+let name= "Preeti Wadhwani";
+`Hello ${name}`  // we use back tick characters which is above tab mostly.  output - Hello Preeti
+```
 
 ### Note
 
